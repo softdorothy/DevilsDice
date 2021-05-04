@@ -19,11 +19,18 @@ The Devil’s Dice is my attempt to present the game of Pig in a manner that I h
 
 ## The Twilight Zone ##
 
-Something about the creepy "devil" fortune telling machine in the original *Twilight Zone* episode "The Nick of Time" caught my fancy. (Google it if you are not familiar with it — an excellent episode featuring William Shatner.)
+Something about the creepy “devil” fortune telling machine in the original *Twilight Zone* episode “The Nick of Time” caught my fancy. (Google it if you are not familiar with it — an excellent episode with William Shatner.)
 
 And then there are the infamous, mechanical, one-armed bandits...
 
 Some hybrid of those two ideas explains the visuals for the game.
+
+* A red turn-knob at the top of the machine is thrown either left or right to indicate which player's turn it is.
+* The green pointer indicates each player’s score, get it to climb to the top (100 points) to win.
+* A standard slot-machine arm initiates the spinning die-wheel for the current player.
+* Red pointers climb for the player whose turn it is ... counting upward the points for each roll/spin of the dice.
+* Roll a “1” (the devil) and the red point-indicator falls back to green.
+* Throw the turn-knob over to end your turn — the green pointer climbs to join the red.
 
 ## Project ##
 
