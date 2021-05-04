@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0b31d393-f78c-4b98-ba4e-0a94cdae5dbe++505",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "0b31d393-f78c-4b98-ba4e-0a94cdae5dbe++505" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0b31d393-f78c-4b98-ba4e-0a94cdae5dbe++505" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DB4B7CDE-479E-415B-8F6B-0DE673AEF09F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0b31d393-f78c-4b98-ba4e-0a94cdae5dbe++505" : "DevilsDice\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DevilsDice",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DevilsDice.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn+ssh:\/\/yuki\/srv\/svn\/DevilsDice",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0b31d393-f78c-4b98-ba4e-0a94cdae5dbe++505"
+    }
+  ]
+}
